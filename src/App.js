@@ -72,7 +72,7 @@ const App = () => {
             height="100"
             onClick={scrollToTop}
           >
-            <i class="fa-solid fa-arrow-up"></i>
+            <i className="fa-solid fa-arrow-up"></i>
           </button>
         </div>
         <Routes>

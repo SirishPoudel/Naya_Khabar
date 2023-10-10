@@ -40,7 +40,7 @@ const News = (props) => {
   // };
   useEffect(() => {
     updateNews();
-  }, []);
+  },[]);
 
   const fetchMoreData = async () => {
     // setState({ page: page + 1 });

@@ -15,7 +15,7 @@ function Landing() {
             </div>
             <div className="text-center mt-3">
               <Link className="btn btn-danger btn-lg" to="/general">
-                <i class="fa-solid fa-magnifying-glass"></i> Start Exploring
+                <i className="fa-solid fa-magnifying-glass"></i> Start Exploring
               </Link>
             </div>
           </div>
